@@ -2,6 +2,7 @@
 
 Link para meu perfil na Digital Innovation One (DIO):
 <a href="https://web.digitalinnovation.one/users/elaine_adm_redes?tab=achievements">
+  perfil
 </a>
 
 Link para baixar meu certificado na DIO:
